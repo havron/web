@@ -21,4 +21,4 @@ deploy:
   name: "havron"
   keep-history: true
   on:
-    branch: gh-pages
+    branch: master
