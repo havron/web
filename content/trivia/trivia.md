@@ -4,7 +4,7 @@ date: 2019-05-10T20:58:49-04:00
 draft: false
 ---
 
-## local attractions. 
+## local attractions and environs. 
 A curated list of places that I like and recommend in New York (Work In Progress).
 
 ### stores.

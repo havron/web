@@ -158,11 +158,14 @@ div.header .content {
 }
 div.header .container .logo {
   {{ if .Site.Params.enlarged }}
-  max-width: 200px;
+  max-width: 1000px;
   {{ else }}
-  max-width: 100px;
+  max-width: 110px;
   {{ end }}
-  margin-left: -2em;
+  margin-right: 100px;
+  padding:10px;
+  border-radius: 15px;
+
 }
 div.header .name {
   padding-top: 20px;
