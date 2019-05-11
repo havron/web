@@ -1,6 +1,6 @@
 .PHONY: serve build commit-deploy
 THEME=cocoa-eh
-cm=updates to `git diff --cached --name-only`
+cm=":pencil:"
 
 serve:
 	hugo server --theme=$(THEME) --watch --buildDrafts
