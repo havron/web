@@ -1,17 +1,18 @@
 ---
-title: "Trivia"
+title: "Environs"
 date: 2019-05-10T20:58:49-04:00
 draft: false
 ---
 
-## local attractions and environs. 
-A curated list of places that I like and recommend in New York (Work In Progress).
+<!-- ## local attractions and environs. -->
+A curated list of places that I like and recommend in New York, presented in no
+particular order (**WIP**).
 
-### stores.
+## browse
 * [McNally Jackson Independent Booksellers](https://www.mcnallyjackson.com/). In Nolita (Manhattan), closest to Bowery <img alt="jtrain" src="/img/jtrain.png" style="width:16px;height:16px;margin: auto"><img alt="ztrain" src="/img/ztrain.png" style="width:16px;height:16px;margin: auto">, Grand St <img alt="btrain" src="/img/btrain.png" style="width:16px;height:16px;margin: auto"><img alt="dtrain" src="/img/dtrain.png" style="width:16px;height:16px;margin: auto">, or Spring St <img alt="6train" src="/img/6train.png" style="width:16px;height:16px;margin: auto">.
 
 
-### food.
+## eat
 
 * [Wu's Wonton King](http://www.wuswontonking.com/). In Chinatown (Manhattan), from East Broadway <img alt="ftrain" src="/img/ftrain.png" style="width:16px;height:16px;margin: auto">.
 

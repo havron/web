@@ -1,8 +1,6 @@
 +++
 title = "Home"
-large_banner = true
 +++
-
 <!-- <img src="/img/self.jpg" alt="photo of sam havron" style="max-width:200px; margin: auto;"> -->
 
 Hi! I'm a PhD student at [Cornell Tech](https://tech.cornell.edu).

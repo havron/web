@@ -211,7 +211,7 @@ div.header nav ul a {
   color: #555555;
   font-weight: 400;
   font-size: 14px;
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-family: 'Helvetica Neue', 'Arial', sans-serif;
   -webkit-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
   -moz-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
@@ -297,11 +297,11 @@ div.main .content .posts {
   {{ end }}
 }
 div.main .content .page-heading {
-  font-size: 20px;
+  font-size: 30px;
   font-weight: 700;
   font-family: 'Helvetica Neue', 'Arial', sans-serif;
   letter-spacing: -0.005rem;
-  text-transform: uppercase;
+  text-transform: capitalize;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   font-smoothing: antialiased;

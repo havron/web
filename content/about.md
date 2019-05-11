@@ -1,12 +1,19 @@
 +++
 date = "2015-08-22"
 title = "About"
-+++
++++ 
+Here is a brief biography suitable for use in brochures, advertisements,
+media, etc. The image on this page should be of sufficient resolution for small
+printing. My CV/resume is available
+[here](https://github.com/havron/cv/blob/master/havron.cv.pdf), current as of
+[latest commit](https://github.com/havron/cv/commits/master).
 
-_With this theme, it is possible to add small sections that only contains one page like this. It will automatically appears in the header, at the end._
 
-Along with [Ford Prefect](https://en.wikipedia.org/wiki/Ford_Prefect_\(character\)), Dent barely escapes the Earth's destruction as it is demolished to make way for a *hyperspace bypass*. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle.  
- 
-> He rather enjoys tea, but seems to have trouble obtaining it in the far reaches of the galaxy.  
- 
-In time, he learns how to fly and carves a niche for himself as a sandwich-maker.
+Sam Havron is a PhD student in computer science at Cornell University; he is in
+residence at Cornell Tech on Roosevelt Island in New York City. He currently
+works on computer security and privacy issues in the context of intimate
+partner violence (IPV). His research has been published at top security
+conferences such as IEEE S&P, and featured by media outlets including the New
+York Times and has been quoted in WIRED. When not staring at metal rectangles
+full of little lights, Sam can often be spotted reading books or exploring new
+places.
