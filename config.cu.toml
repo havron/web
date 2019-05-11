@@ -1,4 +1,4 @@
-baseurl = "https://min.havron.dev/"
+baseurl = "https://www.cs.cornell.edu/~havron"
 theme = "../.."
 builddrafts = true
 canonifyurls = true

@@ -1,6 +1,13 @@
 <div class="footer column">
     <div class="container">
 
+	<div class="copyright">
+
+        edited <a href="https://xkcd.com/1179/" target="_blank" rel="noopener">{{now.Format .Site.Params.footerFormat }}</a>
+      </span>
+
+	</div>
+
         {{ if .Site.Params.githubRepo }}
             <div class="copyright">
             {{ $length := len ( split .Site.Params.githubRepo "/" ) }}
