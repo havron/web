@@ -162,7 +162,6 @@ div.header .container .logo {
   {{ else }}
   max-width: 110px;
   {{ end }}
-  margin-right: 100px;
   padding:10px;
   border-radius: 15px;
 
