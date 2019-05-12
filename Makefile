@@ -22,7 +22,7 @@ commit-deploy: cs.cornell.edu havron.xyz
 cs.cornell.edu: clean
 	@# vpnc-connect, first, if not on campus. "tun0" appears to be the default vpn name.
 	@# todo: add a check for connection to campus network before attempting to check for vpn.
-	nmcli con show --active | grep -q tun0 || sudo vpnc-connect
+	@nmcli con show --active | grep -q tun0 || sudo vpnc-connect
 	@echo "Building content for $@"
 	sed -i 's/.*baseurl.*/baseurl = "https:\/\/www.$@\/~havron\/"/g' config.toml
 	hugo --theme=$(THEME)
