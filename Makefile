@@ -32,7 +32,9 @@ havron.xyz: clean
 	sed -i 's/.*baseurl.*/baseurl = "https:\/\/$@\/"/g' config.toml
 	hugo --theme=$(THEME)
 	@echo "Deploying $@"
-	aws s3 sync --acl public-read --sse AES256 public/ s3://$@/ 
+	@#aws s3 sync --acl public-read --sse AES256 public/ s3://$@/ 
+	aws s3 cp --recursive --acl public-read --sse AES256 public/ s3://$@/ 
+	aws s3 sync --acl public-read --sse AES256 public/ s3://$@/ --delete
 	aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths /\*
 	@ # ^^^ not ideal! should only invalidate modified files...
 
