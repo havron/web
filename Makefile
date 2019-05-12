@@ -1,4 +1,4 @@
-.PHONY: serve build commit-deploy cs.cornell.edu havron.xyz clean
+.PHONY: server build commit-deploy cs.cornell.edu havron.xyz clean
 THEME=cocoa-eh
 cm=":pencil::octocat:"
 DISTRIBUTION_ID=EBRLR8UIL2LHP

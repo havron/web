@@ -5,7 +5,7 @@ draft: false
 ---
 
 <!-- ## local attractions and environs. -->
-A curated list of places that I like and recommend in New York, presented in no
+Some of the places that I like and recommend in New York, presented in no
 particular order (**WIP**).
 
 ## browse
