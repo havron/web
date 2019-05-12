@@ -9,7 +9,7 @@ A curated list of places that I like and recommend in New York, presented in no
 particular order (**WIP**).
 
 ## browse
-* [McNally Jackson Independent Booksellers](https://www.mcnallyjackson.com/). In Nolita (Manhattan), closest to Bowery <img alt="jtrain" src="/img/jtrain.png" style="width:16px;height:16px;margin: auto"><img alt="ztrain" src="/img/ztrain.png" style="width:16px;height:16px;margin: auto">, Grand St <img alt="btrain" src="/img/btrain.png" style="width:16px;height:16px;margin: auto"><img alt="dtrain" src="/img/dtrain.png" style="width:16px;height:16px;margin: auto">, or Spring St <img alt="6train" src="/img/6train.png" style="width:16px;height:16px;margin: auto">.
+* [McNally Jackson Independent Booksellers](https://www.mcnallyjackson.com/). In Nolita (Manhattan), closest to Bowery {{% mta j %}} {{% mta z %}}, Broadway-Lafayette St {{% mta b %}}{{% mta d %}}{{% mta f %}}, or Spring St {{% mta 6 %}}.
 
 ## eat
 
