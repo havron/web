@@ -1,13 +1,13 @@
 .PHONY: serve build commit-deploy cs.cornell.edu havron.xyz clean
 THEME=cocoa-eh
-cm=":pencil:"
+cm=":pencil::octocat:"
 DISTRIBUTION_ID=EBRLR8UIL2LHP
 RSYNCARGS = --compress --recursive --checksum --itemize-changes \
 	--delete -e ssh
 RSYNCDEST = sgh65@cslinux.cs.cornell.edu:/people/sgh65/
 
 
-serve:
+server:
 	hugo server --theme=$(THEME) --watch --buildDrafts
 
 build:
@@ -15,12 +15,14 @@ build:
 
 commit-deploy: cs.cornell.edu havron.xyz
 	git add .
-	git commit -m ${cm}
+	git commit -m "${cm}"
 	git push origin master
 	@echo "Travis build for havron.dev will be triggered shortly, viewable at: https://travis-ci.org/havron/min"
 
 cs.cornell.edu: clean
-	@# vpnc-connect, first, if not on campus
+	@# vpnc-connect, first, if not on campus. "tun0" appears to be the default vpn name.
+	@# todo: add a check for connection to campus network before attempting to check for vpn.
+	nmcli con show --active | grep -q tun0 || sudo vpnc-connect
 	@echo "Building content for $@"
 	sed -i 's/.*baseurl.*/baseurl = "https:\/\/www.$@\/~havron\/"/g' config.toml
 	hugo --theme=$(THEME)
