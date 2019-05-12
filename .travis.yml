@@ -8,19 +8,22 @@ before_install:
   - curl -L https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz -o hugo.tar.gz
   - tar xzvvf hugo.tar.gz -C ./
 
-script:
+script: 
+  - sed -i 's/.*baseurl.*/baseurl = "https:\/\/havron.dev\/"/g' config.toml
   - ./hugo -t cocoa-eh
   - find public/ -type f -exec sed -i 's/_blank">/_blank" rel="noopener">/g' {} +
 
 deploy:
-  local_dir: public # Default static site output dir for Hugo
-  repo: havron/min # This is the slug of the repo you want to deploy your site to
-  target_branch: gh-pages # GitHub pages branch to deploy to (in other cases it can be gh-pages)
-  provider: pages
-  skip_cleanup: true
-  github_token: $GITHUB_TOKEN # This is the authentication which you will setup in the next step in travis-ci dashboard
-  email: sgh65@cornell.edu
-  name: "havron"
-  keep-history: true
-  on:
-    branch: master
+  - provider: pages
+          local_dir: public # Default static site output dir for Hugo
+          repo: havron/havron.github.io # This is the slug of the repo you want to deploy your site to
+          target_branch: master # GitHub pages branch to deploy to (in other cases it can be gh-pages)
+          provider: pages
+          skip_cleanup: true
+          github_token: $GITHUB_TOKEN # This is the authentication which you will setup in the next step in travis-ci dashboard
+          email: sgh65@cornell.edu
+          name: "havron"
+          keep-history: true
+          on:
+            branch: master
+

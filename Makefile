@@ -1,9 +1,11 @@
-.PHONY: serve build cu-pages commit-deploy
+.PHONY: serve build commit-deploy cs.cornell.edu havron.xyz clean
 THEME=cocoa-eh
-RSYNCARGS := --compress --recursive --checksum --itemize-changes \
-	--delete -e ssh
-CU := sgh65@cslinux.cs.cornell.edu:/people/sgh65/
 cm=":pencil:"
+DISTRIBUTION_ID=EBRLR8UIL2LHP
+RSYNCARGS = --compress --recursive --checksum --itemize-changes \
+	--delete -e ssh
+RSYNCDEST = sgh65@cslinux.cs.cornell.edu:/people/sgh65/
+
 
 serve:
 	hugo server --theme=$(THEME) --watch --buildDrafts
@@ -11,16 +13,28 @@ serve:
 build:
 	hugo --theme=$(THEME)
 
-cu-pages: 
-	# vpnc-connect, first, if not on campus
-	hugo --theme=$(THEME) --config config.cu.toml
-	rsync $(RSYNCARGS) public/ $(CU)
-
-commit-deploy:
+commit-deploy: cs.cornell.edu havron.xyz
 	git add .
-	git commit -m "${cm}"
+	git commit -m ${cm}
 	git push origin master
-	@echo "Travis build will be triggered shortly, viewable at: https://travis-ci.org/havron/min"
+	@echo "Travis build for havron.dev will be triggered shortly, viewable at: https://travis-ci.org/havron/min"
+
+cs.cornell.edu: clean
+	@# vpnc-connect, first, if not on campus
+	@echo "Building content for $@"
+	sed -i 's/.*baseurl.*/baseurl = "https:\/\/www.$@\/~havron\/"/g' config.toml
+	hugo --theme=$(THEME)
+	@echo "Deploying $@"
+	rsync $(RSYNCARGS) public/ $(RSYNCDEST)
+
+havron.xyz: clean
+	@echo "Building content for $@"
+	sed -i 's/.*baseurl.*/baseurl = "https:\/\/$@\/"/g' config.toml
+	hugo --theme=$(THEME)
+	@echo "Deploying $@"
+	aws s3 sync --acl public-read --sse AES256 public/ s3://$@/ 
+	aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths /\*
+	@ # ^^^ not ideal! should only invalidate modified files...
 
 clean:
 	rm -rf public/
