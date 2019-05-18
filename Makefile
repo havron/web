@@ -1,10 +1,11 @@
 .PHONY: server build commit-deploy cs.cornell.edu havron.xyz clean
 THEME=cocoa-eh
 cm=":pencil::octocat:"
-DISTRIBUTION_ID=EBRLR8UIL2LHP
+DISTRIBUTION_ID=E21GS4JRVEWGVS
 RSYNCARGS = --compress --recursive --checksum --itemize-changes \
 	--delete -e ssh
 RSYNCDEST = sgh65@cslinux.cs.cornell.edu:/people/sgh65/
+CU_ONLY = http://cuonly.cs.cornell.edu/
 
 
 server:
@@ -20,8 +21,8 @@ commit-deploy: cs.cornell.edu havron.xyz
 	@echo "Travis build for havron.dev will be triggered shortly, viewable at: https://travis-ci.org/havron/min"
 
 cs.cornell.edu: clean
-	@# todo: add a check for connection to campus network before attempting to check for vpn.
-	nmcli con show --active | grep -q tun0 || sudo vpnc-connect
+	@#nmcli con show --active | grep -q tun0 || sudo vpnc-connect
+	curl -s -o /dev/null -w "%{http_code}" ${CU_ONLY} | grep -q 200 || sudo vpnc-connect
 	@echo "Building content for $@"
 	sed -i 's/.*baseurl.*/baseurl = "https:\/\/www.$@\/~havron\/"/g' config.toml
 	hugo --theme=$(THEME)
