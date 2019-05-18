@@ -1,23 +1,19 @@
 THEME=cocoa-eh
 cm=":pencil::octocat:"
+.PHONY: server build commit-deploy cs.cornell.edu havron.xyz clean
 
-
-.PHONY: server
 server:
 	hugo server --theme=$(THEME) --watch --buildDrafts
 
-.PHONY: build
 build:
 	hugo --theme=$(THEME)
 
-.PHONY: commit-deploy
 commit-deploy: cs.cornell.edu havron.xyz
 	git add .
 	git commit -m "${cm}"
 	git push origin master
 	@echo "Travis build for havron.dev will be triggered shortly, viewable at: https://travis-ci.org/havron/min"
 
-.PHONY: cs.cornell.edu
 RSYNCARGS = --compress --recursive --checksum --itemize-changes \
 	--delete -e ssh
 RSYNCUSER = sgh65@cslinux
@@ -32,7 +28,6 @@ cs.cornell.edu: clean
 	rsync $(RSYNCARGS) public/ $(RSYNCUSER).$@:$(RSYNCDEST)
 	@echo "Deployed $@"
 
-.PHONY: havron.xyz
 DISTRIBUTION_ID=E21GS4JRVEWGVS
 havron.xyz: clean
 	@echo "Building content for $@..."
@@ -44,6 +39,5 @@ havron.xyz: clean
 	aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths /\*
 	@echo "Deployed $@"
 
-.PHONY: clean
 clean:
 	rm -rf public/
