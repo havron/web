@@ -9,14 +9,13 @@
 </style>
 </head>
 <body>
-    <img src={{ .Site.Params.logofile }} class="logo" alt="logo" />
     <div class="container f04">
         <div class="content">
-            <div class="header column">
-                <div class="name">404</div>
-            </div>
-            <div class="detail">The page you were looking for does not exist.</div>
-            <div class="suggestion"><a href="/">Visit the home page</a></div>
+            The <a href="https://en.wikipedia.org/wiki/URL" target="_blank" rel="noopener">URL</a> you requested isn't here. 
+            <br>This is most likely a bad link, although it is possible you are behind an oppressive firewall, 
+            <br>under a large boulder, or have broken out of the Cantor Continuum or 
+            <br>found a logical inconsistency in generally accepted mathematics.
+            <div class="suggestion"><a href="{{ .Site.BaseURL }}">Navigate to home page</a>
         </div>
     </div>
 </body>
