@@ -13,7 +13,7 @@ hacker_news_id = ""
 lobsters_id = ""
 +++
 
-Here are some sample blog posts in place until I decide what I want to write
+Here are some sample posts in place until I decide what I want to write
 about.  I have been considering [different
 ways](https://darekkay.com/blog/static-site-comments/) to include a comments
 section for each post, but for now, please email me at `havron@cs.cornell.edu`
