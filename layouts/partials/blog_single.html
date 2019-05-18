@@ -48,6 +48,12 @@
             </div>
             <div class="markdown">
                 {{ partial "content" . }}
+
+            <br>
+            <h3>Comments</h3>
+            I have been considering <a href="https://darekkay.com/blog/static-site-comments/">different ways</a> to include a comments
+            section for each post, but for now, please email me at <code>havron@cs.cornell.edu</code> with your comment and I will post it along with a response if I have one to add.
+<br>
             </div>
             {{ if .Site.Params.share }}
             <br>
@@ -101,10 +107,6 @@
                 src="//{{ .Site.Params.issoHost }}/js/embed.min.js"
             ></script>
             {{ end }}
-
-            <br>
-            I have been considering <a href="https://darekkay.com/blog/static-site-comments/">different ways</a> to include a comments
-section for each post, but for now, please email me at `havron@cs.cornell.edu` with your comment and I will post it along with a response if I have one to add.
             {{ if .Site.Params.commentoHost }}
             <br>
             <div id="commento"></div>
