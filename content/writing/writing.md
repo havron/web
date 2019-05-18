@@ -1,5 +1,5 @@
 +++
-title = 'Blog'
+title = 'Writing'
 date = 2019-05-11T23:48:36-04:00
 draft = true
 tags = ["tags"]

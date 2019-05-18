@@ -13,7 +13,7 @@ pluralizelisttitles = false
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [permalinks]
-blog = "blog/:slug/"
+blog = "writing/:slug/"
 
 [params]
 footerFormat = "2006-Jan-02"
