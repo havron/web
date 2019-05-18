@@ -17,3 +17,9 @@ conferences such as IEEE S&P, and featured by media outlets including the New
 York Times and has been quoted in WIRED. When not staring at metal rectangles
 full of little lights, Sam can often be spotted reading books or exploring new
 places.
+
+**Address**\\
+2 West Loop Road\\
+New York, NY 10044\\
+**Contact**\\
+`havron@cs.cornell.edu`

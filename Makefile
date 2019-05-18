@@ -1,12 +1,12 @@
 .PHONY: server build commit-deploy cs.cornell.edu havron.xyz clean
+$V.SILENT:
 THEME=cocoa-eh
 cm=":pencil::octocat:"
 DISTRIBUTION_ID=E21GS4JRVEWGVS
 RSYNCARGS = --compress --recursive --checksum --itemize-changes \
 	--delete -e ssh
-RSYNCDEST = sgh65@cslinux.cs.cornell.edu:/people/sgh65/
-CU_ONLY = http://cuonly.cs.cornell.edu/
-
+RSYNCUSER = sgh65@cslinux
+RSYNCDEST = /people/sgh65/
 
 server:
 	hugo server --theme=$(THEME) --watch --buildDrafts
@@ -22,21 +22,23 @@ commit-deploy: cs.cornell.edu havron.xyz
 
 cs.cornell.edu: clean
 	@#nmcli con show --active | grep -q tun0 || sudo vpnc-connect
-	curl -s -o /dev/null -w "%{http_code}" ${CU_ONLY} | grep -q 200 || sudo vpnc-connect
-	@echo "Building content for $@"
+	curl -s -o /dev/null -w "%{http_code}" http://cuonly.$@/ | grep -q 200 || sudo vpnc-connect
+	@echo "Building content for $@..."
 	sed -i 's/.*baseurl.*/baseurl = "https:\/\/www.$@\/~havron\/"/g' config.toml
 	hugo --theme=$(THEME)
-	@echo "Deploying $@"
-	rsync $(RSYNCARGS) public/ $(RSYNCDEST)
+	@echo "Deploying $@..."
+	rsync $(RSYNCARGS) public/ $(RSYNCUSER).$@:$(RSYNCDEST)
+	@echo "Deployed $@"
 
 havron.xyz: clean
-	@echo "Building content for $@"
+	@echo "Building content for $@..."
 	sed -i 's/.*baseurl.*/baseurl = "https:\/\/$@\/"/g' config.toml
 	hugo --theme=$(THEME)
-	@echo "Deploying $@"
+	@echo "Deploying $@..."
 	aws s3 cp --recursive --acl public-read --sse AES256 public/ s3://$@/ 
 	aws s3 sync --acl public-read --sse AES256 public/ s3://$@/ --delete
 	aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths /\*
+	@echo "Deployed $@"
 	@ # ^^^ not ideal! should only invalidate modified files...
 
 clean:
