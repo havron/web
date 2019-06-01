@@ -10,8 +10,8 @@ printing. My CV/resume is available
 
 
 Sam Havron is a PhD student in computer science at Cornell University; he is in
-residence at Cornell Tech on Roosevelt Island in New York City. He currently
-works on computer security and privacy issues in the context of intimate
+residence at Cornell Tech on Roosevelt Island in New York City. He is part of a [research team](https://www.ipvtechresearch.org)
+studying computer security and privacy issues in the context of intimate
 partner violence (IPV). His research has been published at top security
 conferences such as IEEE S&P and USENIX Security, and featured by media outlets including the [New
 York Times](https://www.nytimes.com/2018/05/19/technology/phone-apps-stalking.html); he has been quoted in [WIRED](https://www.wired.com/story/eva-galperin-stalkerware-kaspersky-antivirus/). When not staring at metal rectangles
