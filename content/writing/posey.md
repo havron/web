@@ -1,7 +1,7 @@
 +++
-title = 'Writing'
-date = 2019-05-11T23:48:36-04:00
-draft = true
+title = 'There once was a cat named Posey'
+date = 2019-06-02T20:09:16-04:00
+draft = false
 tags = ["tags"]
 description = "Desc"
 
@@ -12,6 +12,8 @@ meta_img = "/images/image.jpg"
 hacker_news_id = ""
 lobsters_id = ""
 +++
-
-Here are some sample posts in place until I decide what I want to write
-about.  
+There once was a cat named Posey\\
+Her gaze is often quite dozy\\
+A red bug comes to race\\
+She crouches and gives chase\\
+Her pounce turns the red bug rosy!
