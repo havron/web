@@ -8,19 +8,19 @@ small_banner_logo = "true"
 
 ## Publications
 
-* **Clinical Computer 
-Security for Victims of Intimate Partner Violence.**
+* **[Clinical Computer 
+Security for Victims of Intimate Partner Violence](/pubs/clinicalsec.pdf).**
 Sam Havron\*, Diana Freed\*, Rahul Chatterjee, Damon McCoy, 
 Nicola Dell, and Thomas Ristenpart. 
-**USENIX Security 2019 (to appear).** 
+**USENIX Security 2019 (to appear).** [[Paper PDF](/pubs/clinicalsec.pdf)].
 
 * **[The Spyware Used in Intimate
-Partner Violence](https://www.ipvtechresearch.org/pubs/spyware.pdf).**
+Partner Violence](/pubs/spyware.pdf).**
  Rahul Chatterjee, Periwinkle Doerfler, Hadas Orgad, Sam Havron, 
 Jackeline Palmer, Diana Freed, Karen Levy, Nicola Dell, 
 Damon McCoy, and Thomas Ristenpart.
 **IEEE S&P (Oakland) 2018**.
-[[Paper PDF](https://www.ipvtechresearch.org/pubs/spyware.pdf)]. Media coverage: [_The New York Times_](https://www.nytimes.com/2018/05/19/technology/phone-apps-stalking.html), [_Vox_](https://www.vox.com/the-big-idea/2018/5/21/17374434/intimate-partner-violence-spyware-domestic-abusers-apple-google), [_Freedom to Tinker (Princeton CITP)_](https://freedom-to-tinker.com/2018/02/23/how-tech-is-failing-victims-of-intimate-partner-violence-thomas-ristenpart-at-citp/).
+[[Paper PDF](/pubs/spyware.pdf)]. Media coverage: [_The New York Times_](https://www.nytimes.com/2018/05/19/technology/phone-apps-stalking.html), [_Vox_](https://www.vox.com/the-big-idea/2018/5/21/17374434/intimate-partner-violence-spyware-domestic-abusers-apple-google), [_Freedom to Tinker (Princeton CITP)_](https://freedom-to-tinker.com/2018/02/23/how-tech-is-failing-victims-of-intimate-partner-violence-thomas-ristenpart-at-citp/).
 
 * **[Poster: Secure
 Multi-Party Computation as a Tool for Privacy-Preserving Data
