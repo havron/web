@@ -7,12 +7,18 @@ small_banner_logo = "true"
 
 
 ## Publications
+ 
+* **["Is my phone hacked?" Analyzing Clinical Computer Security 
+Interventions with Survivors of Intimate Partner Violence.](#)**
+Diana Freed\*, Sam Havron\*, Emily Tseng, Andrea Gallardo, Rahul Chatterjee, 
+Thomas Ristenpart, and Nicola Dell. 
+**ACM Computer-Supported Cooperative Work and Social Computing (CSCW) 2019 (to appear).**
 
 * **[Clinical Computer 
 Security for Victims of Intimate Partner Violence](/pubs/clinicalsec.pdf).**
 Sam Havron\*, Diana Freed\*, Rahul Chatterjee, Damon McCoy, 
 Nicola Dell, and Thomas Ristenpart. 
-**USENIX Security 2019 (to appear).** [[Paper PDF](/pubs/clinicalsec.pdf)].
+**USENIX Security 2019.** [[Paper PDF](/pubs/clinicalsec.pdf)].
 
 * **[The Spyware Used in Intimate
 Partner Violence](/pubs/spyware.pdf).**
@@ -28,6 +34,8 @@ Analysis](/pubs/mpcposter.pdf).**
 Sam Havron.
 **IEEE S&P (Oakland) 2016**.
 [[Paper PDF](/pubs/mpcposter.pdf), [Poster PDF](/pubs/mpc_poster_print.pdf)]
+
+(\*) indicates co-equal contributions.
 
 ## Acknowledgments
 * **[Horcrux: A Password Manager for Paranoids](https://arxiv.org/pdf/1706.05085.pdf).** 
