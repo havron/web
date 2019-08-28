@@ -14,7 +14,7 @@ residence at Cornell Tech on Roosevelt Island in New York City. He is part of a 
 studying computer security and privacy issues in the context of intimate
 partner violence (IPV). His research has been published at top security
 conferences such as IEEE S&P and USENIX Security, and featured by media outlets including the [New
-York Times](https://www.nytimes.com/2018/05/19/technology/phone-apps-stalking.html); he has been quoted in [WIRED](https://www.wired.com/story/eva-galperin-stalkerware-kaspersky-antivirus/). When not staring at metal rectangles
+York Times](https://www.nytimes.com/2018/05/19/technology/phone-apps-stalking.html), [MIT Technology Review](https://www.technologyreview.com/s/614168/nyc-hires-hackers-to-hit-back-at-stalkerware/), and [WIRED](https://www.wired.com/story/eva-galperin-stalkerware-kaspersky-antivirus/). When not staring at metal rectangles
 full of little lights, Sam can often be spotted reading books or exploring new
 places.
 
