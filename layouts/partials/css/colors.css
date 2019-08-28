@@ -3,7 +3,7 @@ a {
 }
 
 a:hover {
-    color: {{ .Param "colors.identifier_dark" }};
+    color: #972626;
 }
 
 div.main .content .markdown, div.header .name, div.header nav ul a:hover {
