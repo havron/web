@@ -15,7 +15,7 @@ lobsters_id = ""
 
 _On security & privacy in the context of intimate partner violence_:
 
-- I'm quoted in ["NYC Has Hired Hackers to Hit Back at Stalkerware,"](https://www.technologyreview.com/s/614168/nyc-hires-hackers-to-hit-back-at-stalkerware/) _MIT Technology Review_ (Aug 14, 2019).
+- I'm quoted in ["NYC Has Hired Hackers to Hit Back at Stalkerware,"](https://www.technologyreview.com/s/614168/nyc-hires-hackers-to-hit-back-at-stalkerware/) _MIT Technology Review_ (August 14, 2019).
 
 - I'm quoted in ["New Tools Help Detect Digital Domestic
   Abuse,"](https://news.cornell.edu/stories/2019/08/new-tools-help-detect-digital-domestic-abuse)
