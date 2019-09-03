@@ -16,6 +16,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 blog = "writing/:slug/"
 
 [params]
+exclude_headings = ["rrg"]
 footerFormat = "2006-Jan-02"
 titlestyle = "capitalize"
 dateform = "Jan 2, 2006"
