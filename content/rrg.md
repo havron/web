@@ -22,13 +22,14 @@ Email the organizers if you are interested in presenting.
 biweekly on Fridays, 12:00-13:30 EST. [Security Seminar](http://www.cs.cornell.edu/~lucy/securityseminar.html) is on the other Fridays.
 
 **Location:** 
-Bloomberg Center 497 (NYC) or Zoom (775-746-986)
+Bloomberg Center 497 (NYC) or Zoom (681-218-454)
 
 **Organizers:**
 Sam Havron (<havron@cs.cornell.edu>) and 
 Nirvan Tyagi (<tyagi@cs.cornell.edu>)
 
 **Discussion:**
-Join **#rrg** on our slack (email organizers for an invitation).
+Join **#rrg** on our slack (email organizers for an invitation). PIN for Zoom
+also on slack.
 
 <iframe src="https://calendar.google.com/calendar/embed?src=dn63t01inba41ogf6t2emc1pio%40group.calendar.google.com&ctz=America%2FNew_York&amp;mode=AGENDA" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
