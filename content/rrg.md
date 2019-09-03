@@ -19,7 +19,7 @@ Ristenpart](https://rist.tech.cornell.edu), and other relevant researchers.
 Email the organizers if you are interested in presenting.
 
 **Time:**
-biweekly on Fridays, 12:00-13:30 EST
+biweekly on Fridays, 12:00-13:30 EST. [Security Seminar](http://www.cs.cornell.edu/~lucy/securityseminar.html) is on the other Fridays.
 
 **Location:** 
 Bloomberg Center 497 (NYC) or Zoom (775-746-986)
@@ -31,4 +31,4 @@ Nirvan Tyagi (<tyagi@cs.cornell.edu>)
 **Discussion:**
 Join **#rrg** on our slack (email organizers for an invitation).
 
-<iframe src="https://calendar.google.com/calendar/embed?src=dn63t01inba41ogf6t2emc1pio%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=dn63t01inba41ogf6t2emc1pio%40group.calendar.google.com&ctz=America%2FNew_York&amp;mode=AGENDA" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
