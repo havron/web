@@ -12,8 +12,11 @@ meta_img = "/images/image.jpg"
 hacker_news_id = ""
 lobsters_id = ""
 +++
+Outlets my research has been covered in include:
+_The New York Times, MIT Technology Review, WIRED, Vice, Malwarebytes, Vox, Slate, Smart Cities
+Dive,_ and _The Cornell Chronicle_.
 
-_On security & privacy in the context of intimate partner violence_:
+**On security & privacy in the context of intimate partner violence:**
 
 - I'm quoted in ["NYC Has Hired Hackers to Hit Back at Stalkerware,"](https://www.technologyreview.com/s/614168/nyc-hires-hackers-to-hit-back-at-stalkerware/) _MIT Technology Review_ (August 14, 2019).
 
@@ -23,7 +26,7 @@ _On security & privacy in the context of intimate partner violence_:
 
 - I'm quoted in ["Parental Monitoring Apps: How Do They Differ From
   Stalkerware?"](https://blog.malwarebytes.com/stalkerware/2019/07/parental-monitoring-apps-how-do-they-differ-from-stalkerware/)
-  _MalwareBytes_ (July 22, 2019).
+  _Malwarebytes_ (July 22, 2019).
 
 - I'm quoted in ["How 'Stalkerware' Apps are Letting Abusive Partners Spy on
   Their Victims,"](https://www.technologyreview.com/s/613915/stalkerware-apps-are-letting-abusive-partners-spy-on-their-victims/) 

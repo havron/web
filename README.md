@@ -23,7 +23,7 @@ online.
 My web pages are accessible at <https://www.cs.cornell.edu/~havron/>,
 <https://havron.xyz>, and <https://havron.dev>. Each of these URLs
 serve the same content, but they are hosted with different
-cloud providers.
+cloud providers (eventually I'll consolidate these).
 
 When I'm done editing the source code, I run the command `make commit-deploy`
 to push my local changes to this repository, and also automatically deploy them
