@@ -14,9 +14,11 @@ lobsters_id = ""
 +++
 Outlets my research has been covered in include:
 _The New York Times, MIT Technology Review, WIRED, Vice, Malwarebytes, Vox, Slate, Smart Cities
-Dive,_ and _The Cornell Chronicle_.
+Dive, Technology Review (Deutschland),_ and _The Cornell Chronicle_.
 
 **On security & privacy in the context of intimate partner violence:**
+
+- I'm quoted in "New York hilft Opfern von Stalkerware," (page 84) _Technology Review (Deutschland)_ (October 2019 print edition).
 
 - I'm quoted in ["NYC Has Hired Hackers to Hit Back at Stalkerware,"](https://www.technologyreview.com/s/614168/nyc-hires-hackers-to-hit-back-at-stalkerware/) _MIT Technology Review_ (August 14, 2019).
 

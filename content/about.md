@@ -9,7 +9,7 @@ printing. My CV/resume is available
 [latest commit](https://github.com/havron/cv/commits/master).
 
 
-Sam Havron is a PhD student in computer science at Cornell University; he is in
+Sam Havron is a PhD candidate in computer science at Cornell University; he is in
 residence at Cornell Tech on Roosevelt Island in New York City. He is part of a [research team](https://www.ipvtechresearch.org)
 studying computer security and privacy issues in the context of intimate
 partner violence (IPV). His research has been published at top security
