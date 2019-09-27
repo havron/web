@@ -9,10 +9,11 @@ small_banner_logo = "true"
 ## Publications
  
 * **["Is my phone hacked?" Analyzing Clinical Computer Security 
-Interventions with Survivors of Intimate Partner Violence.](#)**
+Interventions with Survivors of Intimate Partner
+Violence.](/pubs/freed-cscw19.pdf)**
 Diana Freed\*, Sam Havron\*, Emily Tseng, Andrea Gallardo, Rahul Chatterjee, 
 Thomas Ristenpart, and Nicola Dell. 
-**ACM Computer-Supported Cooperative Work and Social Computing (CSCW) 2019 (to appear).**
+**ACM Computer-Supported Cooperative Work and Social Computing (CSCW) 2019.** [[Paper PDF](/pubs/freed-cscw19.pdf)]. _Best Paper Honorable Mention Award_.
 
 * **[Clinical Computer 
 Security for Victims of Intimate Partner Violence](/pubs/clinicalsec.pdf).**
