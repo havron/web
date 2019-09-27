@@ -2,6 +2,8 @@
 date = "2015-08-22"
 title = "About"
 +++ 
+
+**Bio/CV**\\
 Here is a brief biography suitable for use in brochures, advertisements,
 media, etc. The image on this page should be of sufficient resolution for small
 printing. My CV/resume is available
