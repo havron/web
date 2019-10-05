@@ -1,7 +1,7 @@
 +++
 date = "2019-05-11"
 edate = "2015-08-19T20:29:37-07:00"
-title = "Projects"
+title = "Research"
 small_banner_logo = "true"
 +++
 

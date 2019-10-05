@@ -7,8 +7,7 @@ title = "About"
 Here is a brief biography suitable for use in brochures, advertisements,
 media, etc. The image on this page should be of sufficient resolution for small
 printing. My CV/resume is available
-[here](https://github.com/havron/cv/blob/master/havron.cv.pdf), current as of
-[latest commit](https://github.com/havron/cv/commits/master).
+[here](/havron-cv.pdf).
 
 
 Sam Havron is a PhD candidate in computer science at Cornell University; he is in
