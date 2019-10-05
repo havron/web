@@ -19,7 +19,7 @@ Thomas Ristenpart, and Nicola Dell.
 Security for Victims of Intimate Partner Violence](/pubs/clinicalsec.pdf).**
 Sam Havron\*, Diana Freed\*, Rahul Chatterjee, Damon McCoy, 
 Nicola Dell, and Thomas Ristenpart. 
-**USENIX Security 2019.** [[Paper PDF](/pubs/clinicalsec.pdf)]. Media coverage:
+**USENIX Security 2019.** [[Paper PDF](/pubs/clinicalsec.pdf), [Presentation Video](https://www.youtube.com/watch?v=YsFZ3OxwWN0)]. Media coverage:
 [_MIT Technology Review_](https://www.technologyreview.com/s/614168/nyc-hires-hackers-to-hit-back-at-stalkerware/), [_Cornell Chronicle_](https://news.cornell.edu/stories/2019/08/new-tools-help-detect-digital-domestic-abuse), [_Smart Cities Dive_](https://www.smartcitiesdive.com/news/tech-can-impact-domestic-violence-not-always-in-a-positive-way/555757/). 
 
 * **[The Spyware Used in Intimate
