@@ -6,7 +6,7 @@ draft: false
 
 <!-- ## local attractions and environs. -->
 Some of the places that I like and recommend in New York, presented in no
-particular order (**WIP**).
+particular order.
 
 ## browse
 * [McNally Jackson Independent Booksellers](https://www.mcnallyjackson.com/). In Nolita (Manhattan), closest to Bowery {{% mta j %}} {{% mta z %}}, Broadway-Lafayette St {{% mta b %}}{{% mta d %}}{{% mta f %}}{{% mta m %}}, or Spring St {{% mta 6 %}}.
@@ -27,6 +27,7 @@ particular order (**WIP**).
 * [Phayul](http://places.singleplatform.com/phayul-/menu?ref=google). **Tibetan**. In Jackson Heights (Queens), closest to Roosevelt Ave - Jackson Heights {{% mta 7 %}}{{% mta e %}}{{% mta f %}}{{% mta m %}}{{% mta r %}}.
 
 ## drink
+* [DTUT](https://dtutcafe.com/). **Coffee**. On the Upper East Side (Manhattan), closest to 86 St - Second Ave {{% mta q %}}{{% mta m %}}.
 * [Irving Farm New York](https://irvingfarm.com/). **Coffee**. In Gramercy (Manhattan), closest to 14 St - Union Sq {{% mta 4 %}}{{% mta 5 %}}{{% mta 6 %}}{{% mta l %}}{{% mta n %}}{{% mta q %}}{{% mta r %}}{{% mta w %}}.
 * [Think Coffee](https://www.thinkcoffee.com/). **Coffee**. In Greenwich Village (Manhattan), closest to Broadway-Lafayette St {{% mta b %}}{{% mta d %}}{{% mta f %}}{{% mta m %}}, 8 St {{% mta r %}}{{% mta w %}}, or Bleecker St / Lafayette St {{% mta 6 %}}.
 
