@@ -18,7 +18,7 @@ Dive, Technology Review (Deutschland),_ and _The Cornell Chronicle_.
 
 **On security & privacy in the context of intimate partner violence:**
 
-- I'm quoted in ["New York hilft Opfern von Stalkerware,"](https://www.heise.de/tr/artikel/New-York-hilft-Opfern-von-Stalkerware-4535568.html) (page 84) _Technology Review (Deutschland)_ (October 2019 print edition).
+- I'm quoted in ["New York hilft Opfern von Stalkerware,"](https://www.heise.de/tr/artikel/New-York-hilft-Opfern-von-Stalkerware-4535568.html) (page 84) _Technology Review (Deutschland)_ (October 22, 2019).
 
 - I'm quoted in ["NYC Has Hired Hackers to Hit Back at Stalkerware,"](https://www.technologyreview.com/s/614168/nyc-hires-hackers-to-hit-back-at-stalkerware/) _MIT Technology Review_ (August 14, 2019).
 
