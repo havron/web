@@ -18,7 +18,7 @@ Dive, Technology Review (Deutschland), Cornell Tech Press Room_, and _The Cornel
 
 **On security & privacy in the context of intimate partner violence:**
 
-- Our work is discussed in ["Cornell Tech Opens Computer Security Clinic for Victims of Tech-Enabled Intimate Partner Violence,"](https://tech.cornell.edu/news/cornell-tech-opens-computer-security-clinic-for-victims-of-tech-enabled-intimate-partner-violence/) _Cornell Tech Press Room_ (October 23, 2019)
+- Our work is discussed in ["Cornell Tech Opens Computer Security Clinic for Victims of Tech-Enabled Intimate Partner Violence,"](https://tech.cornell.edu/news/cornell-tech-opens-computer-security-clinic-for-victims-of-tech-enabled-intimate-partner-violence/) _Cornell Tech Press Room_ (October 22, 2019)
 
 - I'm quoted in ["New York hilft Opfern von Stalkerware,"](https://www.heise.de/tr/artikel/New-York-hilft-Opfern-von-Stalkerware-4535568.html) (page 84) _Technology Review (Deutschland)_ (October 22, 2019).
 
