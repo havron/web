@@ -1,5 +1,5 @@
 baseurl = "https://havron.xyz/"
-theme = "../.."
+theme = "themes/cocoa-eh"
 builddrafts = true
 canonifyurls = true
 contentdir = "content"
@@ -11,6 +11,9 @@ title = "Sam Havron"
 disqusshortname = ""
 pluralizelisttitles = false
 disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[markup.goldmark.renderer]
+unsafe= true
 
 [permalinks]
 blog = "writing/:slug/"
