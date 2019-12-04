@@ -45,7 +45,7 @@ twitter = "SamHavron"
 usesmallsummarycard = true
 posts_navigation = true
 # issoHost = "comments.domain.tld:1234"
-# githubRepo = "githubUsername/repositoryName/tree/master"
+#githubRepo = "stopipv/isdi/tree/master"
 small_banner_logo = true # global, set large_banner_logo in a post to override this
 
 [params.colors]
