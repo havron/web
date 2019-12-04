@@ -14,7 +14,10 @@ lobsters_id = ""
 +++
 Outlets my research has been covered in include:
 _The New York Times, MIT Technology Review, WIRED, Vice, Malwarebytes, Vox, Slate, Smart Cities
-Dive, Technology Review (Deutschland), Cornell Tech Press Room_, and _The Cornell Chronicle_.
+Dive, Technology Review (Deutschland), Cornell Tech Press Room_, and _The Cornell Chronicle_. 
+
+Notable people my research has received attention from include: _U.S. Senator Kamala Harris (D-CA)_.
+
 
 **On security & privacy in the context of intimate partner violence:**
 
