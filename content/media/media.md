@@ -17,6 +17,7 @@ _The New York Times, MIT Technology Review, WIRED, Vice, Malwarebytes, Vox, Slat
 Dive, Technology Review (Deutschland), Cornell Tech Press Room_, and _The Cornell Chronicle_.
 
 **On security & privacy in the context of intimate partner violence:**
+
 - [U.S. Senator Kamala Harris (D-CA) tweeted](https://twitter.com/KamalaHarris/status/1201897394939596807) about a [WBUR
   podcast](https://www.wbur.org/hereandnow/2019/11/27/domestic-abuse-apps-home-devices)
 featuring our team (podcast published November 27, 2019)  

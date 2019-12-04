@@ -15,8 +15,8 @@ Sam Havron is a PhD candidate in computer science at Cornell University; he is i
 residence at Cornell Tech on Roosevelt Island in New York City. He is part of a [research team](https://www.ipvtechresearch.org)
 studying computer security and privacy issues in the context of intimate
 partner violence (IPV), and he helps lead the first [computer security clinic](https://tech.cornell.edu/news/cornell-tech-opens-computer-security-clinic-for-victims-of-tech-enabled-intimate-partner-violence/) for IPV survivors, in New York City. His research has been published at top security
-conferences such as IEEE S&P and USENIX Security, and featured by media outlets including the [New
-York Times](https://www.nytimes.com/2018/05/19/technology/phone-apps-stalking.html), [MIT Technology Review](https://www.technologyreview.com/s/614168/nyc-hires-hackers-to-hit-back-at-stalkerware/), and [WIRED](https://www.wired.com/story/eva-galperin-stalkerware-kaspersky-antivirus/). When not staring at metal rectangles
+conferences such as IEEE S&P and USENIX Security, featured by media outlets including the [New
+York Times](https://www.nytimes.com/2018/05/19/technology/phone-apps-stalking.html), [MIT Technology Review](https://www.technologyreview.com/s/614168/nyc-hires-hackers-to-hit-back-at-stalkerware/), and [WIRED](https://www.wired.com/story/eva-galperin-stalkerware-kaspersky-antivirus/), and received attention from a [U.S. Senator](https://twitter.com/KamalaHarris/status/1201897394939596807). When not staring at metal rectangles
 full of little lights, Sam can often be spotted reading books or exploring new
 places.
 
