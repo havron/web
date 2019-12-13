@@ -13,13 +13,16 @@ hacker_news_id = ""
 lobsters_id = ""
 +++
 Outlets my research has been covered in include:
-_The New York Times, MIT Technology Review, WIRED, Vice, Malwarebytes, Vox, Slate, Smart Cities
-Dive, Technology Review (Deutschland), Cornell Tech Press Room_, and _The Cornell Chronicle_. 
+**_The New York Times, MIT Technology Review, WIRED, NPR (WBUR), The 
+Brooklyn Daily Eagle, Vice, Malwarebytes, Vox, Slate, Smart Cities
+Dive, Technology Review (Deutschland), Cornell Tech Press Room_, and _The Cornell Chronicle_.** 
 
 Notable people my research has received public attention from include: _U.S. Senator Kamala Harris (D-CA)_.
 
 
 **On security & privacy in the context of intimate partner violence:**
+
+- Our work is discussed in ["For domestic violence victims, cyberstalking is a growing issue. This NYC clinic is helping them."](https://brooklyneagle.com/articles/2019/12/02/for-domestic-violence-victims-cyberstalking-is-a-growing-issue-this-nyc-clinic-is-helping-them/) _The Brooklyn Daily Eagle_ (December 2, 2019) 
 
 - [U.S. Senator Kamala Harris (D-CA) tweeted](https://twitter.com/KamalaHarris/status/1201897394939596807) about a [WBUR
   podcast](https://www.wbur.org/hereandnow/2019/11/27/domestic-abuse-apps-home-devices)
