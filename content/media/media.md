@@ -17,7 +17,7 @@ Outlets my research has been covered in include:
 Brooklyn Daily Eagle, Vice, Malwarebytes, Vox, Slate, Smart Cities
 Dive, Technology Review (Deutschland), Cornell Tech Press Room_, and _The Cornell Chronicle_.** 
 
-Notable people my research has received public attention from include: _U.S. Senator Kamala Harris (D-CA)_.
+Notable people my research has received public attention from include: **U.S. Senator Kamala Harris (D-CA)**.
 
 
 **On security & privacy in the context of intimate partner violence:**
