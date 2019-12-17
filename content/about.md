@@ -3,13 +3,14 @@ date = "2015-08-22"
 title = "About"
 +++ 
 
-**Bio/CV**
+**CV**\
+[Available here (pdf)](/havron-cv.pdf).
 
-Here is a brief biography suitable for use in brochures, advertisements,
+
+**Bio**\
+Here is a brief biography suitable for use in talk advertisements,
 media, etc. The image on this page should be of sufficient resolution for small
-printing. My CV/resume is available
-[here](/havron-cv.pdf).
-
+printing. 
 
 Sam Havron is a PhD candidate in computer science at Cornell University; he is in
 residence at Cornell Tech on Roosevelt Island in New York City. He is part of a [research team](https://www.ipvtechresearch.org)
@@ -20,14 +21,12 @@ York Times](https://www.nytimes.com/2018/05/19/technology/phone-apps-stalking.ht
 full of little lights, Sam can often be spotted reading books or exploring new
 places.
 
-**Address**
- 
-2 West Loop Road 
-
+**Address**\
+2 West Loop Road \
 New York, NY 10044 
 
-**Contact**
-
-`havron@cs.cornell.edu`
+**Contact**\
+`havron@cs.cornell.edu` (academic)\
+`sam@havron.dev` (non-academic)
 
 <a href="https://www.nytimes.com/2017/09/13/arts/design/cornell-tech-art-roosevelt-island.html" rel="noopener" target="_blank"><img src="/img/manhattan-map.svg" style="width: 7em"></a>
