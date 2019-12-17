@@ -8,8 +8,8 @@ title = "About"
 
 
 **Bio**\
-Here is a brief biography suitable for use in talk advertisements,
-media, etc. The image on this page should be of sufficient resolution for small
+Here is a brief biography suitable for use in talk announcements,
+media, etc. The [image](/img/self.jpg) on this page should be of sufficient resolution for small
 printing. 
 
 Sam Havron is a PhD candidate in computer science at Cornell University; he is in
