@@ -27,6 +27,7 @@ New York, NY 10044
 
 **Contact**\
 `havron@cs.cornell.edu` (academic)\
-`sam@havron.dev` (non-academic)
+`sam@havron.dev` (non-academic)\
+`havron@protonmail.com` (if you use [protonmail](https://protonmail.com), this is [e2e](https://protonmail.com/security-details))
 
 <a href="https://www.nytimes.com/2017/09/13/arts/design/cornell-tech-art-roosevelt-island.html" rel="noopener" target="_blank"><img src="/img/manhattan-map.svg" style="width: 7em"></a>
