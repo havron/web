@@ -1,5 +1,5 @@
 +++
-title = 'Media'
+title = 'Press'
 date = 2019-08-27T13:17:15-04:00
 draft = true
 tags = ["tags"]

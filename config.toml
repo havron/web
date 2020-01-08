@@ -1,5 +1,5 @@
 baseurl = "https://havron.xyz/"
-theme = "themes/cocoa-eh"
+theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
 contentdir = "content"
