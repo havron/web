@@ -63,3 +63,30 @@ type = "#97d28b"
 special = "#ffcb8d"
 value = "#96c2d7"
 statement = "#ff8e91"
+
+[menu]
+  [[menu.main]]
+    name = "research"
+    url = "/research/"
+    weight = -100
+  [[menu.main]]
+    name = "press"
+    url = "/press/"
+    weight = -99
+
+  [[menu.main]]
+    name = "environs"
+    url = "/environs/"
+    weight = -90
+
+  #[[menu.main]]
+  #  name = "writing"
+  #  url = "/writing/"
+  #  weight = -85
+  
+[[menu.main]]
+    name = "about"
+    url = "/about/"
+    weight = -80
+
+

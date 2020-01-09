@@ -12,8 +12,8 @@ meta_img = "/images/image.jpg"
 hacker_news_id = ""
 lobsters_id = ""
 +++
-There once was a cat named Posey\\
-Her gaze is often quite dozy\\
-A red bug comes to race\\
-She crouches and gives chase\\
+There once was a cat named Posey\
+Her gaze is often quite dozy\
+A red bug comes to race\
+She crouches and gives chase\
 Her pounce turns the red bug rosy!
