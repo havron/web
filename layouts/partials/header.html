@@ -14,7 +14,9 @@
         {{ if (not (isset .Site.Params "logofile")) }}
         <a href="https://github.com/mtn/cocoa-eh-hugo-theme/wiki/Configuration#logo">Logo HOWTO</a>
         {{ else if ne .Site.Params.logofile "" }}
-        <a href="{{ .Site.BaseURL }}"><img class="logo" src="{{ .Site.Params.logofile | relURL }}" alt="logo"></a>
+        <figure style="text-align: center"><a href="{{ .Site.BaseURL }}"><img class="logo" src="{{ .Site.Params.logofile | relURL }}" alt="logo"></a>
+          <figcaption><a href="{{"/img/havron_sam.jpg" | relURL }}" style="font-size:0.9em">[high-res]</a></figcaption>
+        </figure>
         {{ end }}
         <div class="content">
             <a href="/"><div class="name"><h1>{{ .Site.Title }}</h1></div></a>
