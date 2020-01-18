@@ -19,6 +19,8 @@ unsafe= true
 blog = "writing/:slug/"
 
 [params]
+disablefancyfonts = true
+subtitle = " - Cornell"
 exclude_headings = ["rrg"]
 footerFormat = "2006-Jan-02"
 titlestyle = "capitalize"

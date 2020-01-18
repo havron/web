@@ -3,7 +3,7 @@
 <title>
 {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
 {{ if eq $url "" }}
-    {{ .Site.Title }}
+{{ .Site.Title }}{{ .Site.Params.Subtitle }}
 {{ else }}
     {{ if .Params.heading }} {{ .Params.heading }} {{ else }} {{ .Site.Title }} - {{ .Title }} {{ end }}
 {{ end }}

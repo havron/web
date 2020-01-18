@@ -10,12 +10,32 @@
   {{ partial "css/min769px.css" . | safeCSS }}
 </style>
 
-<noscript>
+<link rel="preload" as="font" type="font/woff" href="{{ .Site.BaseURL }}fonts/merriweather-v21-latin-300italic.woff" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="{{ .Site.BaseURL }}fonts/merriweather-v21-latin-300italic.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff" href="{{ .Site.BaseURL }}fonts/merriweather-v21-latin-300.woff" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="{{ .Site.BaseURL }}fonts/merriweather-v21-latin-300.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff" href="{{ .Site.BaseURL }}fonts/merriweather-v21-latin-700italic.woff" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="{{ .Site.BaseURL }}fonts/merriweather-v21-latin-700italic.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff" href="{{ .Site.BaseURL }}fonts/merriweather-v21-latin-700.woff" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="{{ .Site.BaseURL }}fonts/merriweather-v21-latin-700.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff" href="{{ .Site.BaseURL }}fonts/raleway-v14-latin-600.woff" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="{{ .Site.BaseURL }}fonts/raleway-v14-latin-600.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff" href="{{ .Site.BaseURL }}fonts/raleway-v14-latin-700.woff" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="{{ .Site.BaseURL }}fonts/raleway-v14-latin-700.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff" href="{{ .Site.BaseURL }}fonts/raleway-v14-latin-regular.woff" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="{{ .Site.BaseURL }}fonts/raleway-v14-latin-regular.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff" href="{{ .Site.BaseURL }}fonts/ubuntu-mono-v9-latin-700.woff" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="{{ .Site.BaseURL }}fonts/ubuntu-mono-v9-latin-700.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff" href="{{ .Site.BaseURL }}fonts/ubuntu-mono-v9-latin-regular.woff" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="{{ .Site.BaseURL }}fonts/ubuntu-mono-v9-latin-regular.woff2" crossorigin>
+
+<!--<noscript>
+  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
   <link href="https://fonts.googleapis.com/css?family=Raleway:400,600,700" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,700,700i" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700" rel="stylesheet">
 </noscript>
-
+-->
 {{ if .Site.Params.highlightjs }}
   <style type="text/css" media="screen">
     {{ partial "css/highlight.min.css" . | safeCSS }}
@@ -55,5 +75,5 @@
 
 <!-- RSS -->
 {{ if .RSSLink }}
-  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}{{ .Site.Params.Subtitle}}" />
 {{ end }}
