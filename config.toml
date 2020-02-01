@@ -41,6 +41,7 @@ share = false
 # latestpostcount = 0
 email = "havron@cs.cornell.edu"
 github = "havron"
+cv = "havron-cv.pdf"
 #linkedin = "john-example-aa80ue8è"
 twitter = "SamHavron"
 #facebook = "facebook_id"
@@ -87,8 +88,8 @@ statement = "#ff8e91"
   #  weight = -85
   
 [[menu.main]]
-    name = "about"
-    url = "/about/"
+    name = "Bio-Etc"
+    url = "/bio-cv/"
     weight = -80
 
 

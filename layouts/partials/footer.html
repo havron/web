@@ -35,13 +35,6 @@
         <div class="icons">
 
 
-     <a href="/rrg">RRG</a> | 
-        {{ if .Site.Params._500px }}
-            <a href="https://500px.com/{{ .Site.Params._500px }}" target="_blank" rel="noopener">
-                <img class="icon" src="{{ .Site.BaseURL }}img/500px.svg" alt="500px" />
-            </a>
-        {{ end }}
-
         {{ if .Site.Params.itch_io }}
             <a href="https://{{ .Site.Params.itch_io }}.itch.io" target="_blank" rel="noopener">
                 <img class="icon" src="{{ .Site.BaseURL }}img/itch.io.svg" alt="itch.io" />
@@ -52,6 +45,10 @@
             <a href="https://gitlab.com/{{ .Site.Params.gitlab }}" target="_blank" rel="noopener">
                 <img class="icon" src="{{ .Site.BaseURL }}img/gitlab.svg" alt="gitlab" />
             </a>
+        {{ end }}
+
+        {{ if .Site.Params.cv }}
+        <a href="{{ .Site.BaseURL}}{{ .Site.Params.cv }}" style="font-size:1.05em">CV</a>
         {{ end }}
 
         {{ if .Site.Params.instagram }}
