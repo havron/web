@@ -5,6 +5,15 @@ title = "Research"
 small_banner_logo = "true"
 +++
 
+## Awards
+* [Facebook Fellowship Program Finalist
+  2020](https://research.fb.com/blog/2020/01/announcing-the-recipients-of-the-2020-facebook-fellowship-awards/)
+  - **Top 4% of Applicants (1800+ applied)**
+* NortonLifeLock Graduate Research Fellowship Finalist 2020
+* Advocate of New York City Award. 2019
+* Best Paper Honorable Mention for [3] at ACM CSCW. November 2019
+* Cornell Graduate School Fellowship. Top 20% of Cornell doctoral students. August 2017
+* Louis T. Rader Award for Outstanding Undergraduate Education at the University of Virginia. May 2017
 
 ## Publications
  
@@ -12,7 +21,8 @@ small_banner_logo = "true"
 Thomas Ristenpart, and Nicola Dell. ["Is my phone hacked?" Analyzing Clinical Computer Security 
 Interventions with Survivors of Intimate Partner
 Violence.](/pubs/freed-cscw19.pdf)
-ACM Computer-Supported Cooperative Work and Social Computing (**ACM CSCW**) 2019. [[Paper PDF](/pubs/freed-cscw19.pdf)]. **Best Paper Honorable Mention Award**.
+ACM Computer-Supported Cooperative Work and Social Computing (**ACM CSCW**) 2019. [[Paper PDF](/pubs/freed-cscw19.pdf)]. <span style="color: purple;"><b>Best Paper Honorable Mention Award</b></span>.
+<!-- use Hugo macro later for awards -->
 
 2. **Sam Havron**\*, Diana Freed\*, Rahul Chatterjee, Damon McCoy, 
 Nicola Dell, and Thomas Ristenpart. [Clinical Computer 
@@ -28,7 +38,7 @@ Partner Violence](/pubs/spyware.pdf).
 [[Paper PDF](/pubs/spyware.pdf)]. Media coverage: [_The New York Times_](https://www.nytimes.com/2018/05/19/technology/phone-apps-stalking.html), [_MIT Technology Review_](https://www.technologyreview.com/s/613915/stalkerware-apps-are-letting-abusive-partners-spy-on-their-victims/), [_Cornell Chronicle_](https://news.cornell.edu/stories/2018/07/apps-make-it-easy-domestic-abusers-spy), [_Vox_](https://www.vox.com/the-big-idea/2018/5/21/17374434/intimate-partner-violence-spyware-domestic-abusers-apple-google), [_Freedom to Tinker (Princeton CITP)_](https://freedom-to-tinker.com/2018/02/23/how-tech-is-failing-victims-of-intimate-partner-violence-thomas-ristenpart-at-citp/).
 
 ## Posters
-1. **Sam Havron**, Dave Evans. [Poster: Secure
+[PST1]. **Sam Havron**, Dave Evans. [Poster: Secure
 Multi-Party Computation as a Tool for Privacy-Preserving Data
 Analysis](/pubs/mpcposter.pdf).
 **IEEE S&P (Oakland) 2016**.
