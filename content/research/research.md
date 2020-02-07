@@ -5,6 +5,9 @@ title = "Research"
 small_banner_logo = "true"
 +++
 
+Current research collaborators (faculty) include: [Tom
+Ristenpart](https://rist.tech.cornell.edu), [Nicki Dell](https://nixdell.com), [Rahul Chatterjee](https://pages.cs.wisc.edu/~chatterjee/), and [Damon McCoy](http://damonmccoy.com/). 
+
 ## Awards
 * [Facebook Fellowship Program Finalist
   2020](https://research.fb.com/blog/2020/01/announcing-the-recipients-of-the-2020-facebook-fellowship-awards/)
