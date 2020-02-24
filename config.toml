@@ -88,8 +88,8 @@ statement = "#ff8e91"
   #  weight = -85
   
 [[menu.main]]
-    name = "Bio-Etc"
-    url = "/bio-cv/"
+    name = "Bio"
+    url = "/bio/"
     weight = -80
 
 [[menu.main]]

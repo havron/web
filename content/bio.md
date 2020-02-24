@@ -1,6 +1,6 @@
 +++
 date = "2015-08-22"
-title = "etc"
+title = "Bio"
 +++ 
 
 ## Bio for talks+press
