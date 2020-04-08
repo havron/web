@@ -92,9 +92,9 @@ statement = "#ff8e91"
     url = "/bio/"
     weight = -80
 
-[[menu.main]]
-    name = "CV"
-    url = "/havron-cv.pdf"
-    weight = -70
+#[[menu.main]]
+#    name = "CV"
+#    url = "/havron-cv.pdf"
+#    weight = -70
 
 

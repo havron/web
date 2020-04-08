@@ -16,9 +16,8 @@ conferences such as IEEE S&P and USENIX Security, featured by media outlets incl
 York Times](https://www.nytimes.com/2018/05/19/technology/phone-apps-stalking.html), [MIT Technology Review](https://www.technologyreview.com/s/614168/nyc-hires-hackers-to-hit-back-at-stalkerware/), and [WIRED](https://www.wired.com/story/eva-galperin-stalkerware-kaspersky-antivirus/), and received attention from a [U.S. Senator](https://twitter.com/KamalaHarris/status/1201897394939596807). When not staring at metal rectangles
 full of little lights, Sam can often be spotted reading books or exploring new places._
 
-## Curriculum Vitae
-[Available here (pdf)](/havron-cv.pdf).
-
+## Resume / Curriculum Vitae
+Request via email.
 
 ## Address
 Cornell Tech\

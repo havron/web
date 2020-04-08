@@ -11,11 +11,13 @@ Ristenpart](https://rist.tech.cornell.edu), [Nicki Dell](https://nixdell.com), [
 ## Awards
 * [Facebook Fellowship Program Finalist
   2020](https://research.fb.com/blog/2020/01/announcing-the-recipients-of-the-2020-facebook-fellowship-awards/)
-  - **Top 4% of Applicants (1800+ applied)**
-* NortonLifeLock Graduate Research Fellowship Finalist 2020
+  - Top 4% of Applicants (1800+ applied)
+* [NortonLifeLock Graduate Research Fellowship 2020](https://www.nortonlifelock.com/about/careers/graduate-fellowship). $20,000
+   - Top 3% of applicants (100+ applied)
 * Advocate of New York City Award. 2019
 * Best Paper Honorable Mention for [3] at ACM CSCW. November 2019
-* Cornell Graduate School Fellowship. Top 20% of Cornell doctoral students. August 2017
+* [Cornell Graduate School Fellowship 2017.](https://gradschool.cornell.edu/financial-support/fellowships/new-student-fellowships/) $62,000. 
+  - Top 20% of Cornell doctoral students.
 * Louis T. Rader Award for Outstanding Undergraduate Education at the University of Virginia. May 2017
 
 ## Publications
