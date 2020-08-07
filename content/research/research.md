@@ -4,21 +4,17 @@ edate = "2015-08-19T20:29:37-07:00"
 title = "Research"
 small_banner_logo = "true"
 +++
-
-Current research collaborators (faculty) include: [Tom
-Ristenpart](https://rist.tech.cornell.edu), [Nicki Dell](https://nixdell.com), [Rahul Chatterjee](https://pages.cs.wisc.edu/~chatterjee/), and [Damon McCoy](http://damonmccoy.com/). 
+[Google Scholar profile](https://scholar.google.com/citations?user=44fl1V0AAAAJ&hl=en)\
+[scite.ai profile](https://scite.ai/users/Sam-Havron-1)
 
 ## Awards
 * [Facebook Fellowship Program Finalist
-  2020](https://research.fb.com/blog/2020/01/announcing-the-recipients-of-the-2020-facebook-fellowship-awards/)
-  - Top 4% of Applicants (1800+ applied)
-* [NortonLifeLock Graduate Research Fellowship 2020](https://www.nortonlifelock.com/about/careers/graduate-fellowship). $20,000
-   - Top 3% of applicants (100+ applied)
+  2020](https://research.fb.com/blog/2020/01/announcing-the-recipients-of-the-2020-facebook-fellowship-awards/). Top 4% of Applicants (1800+ applied)
+* [NortonLifeLock Graduate Research Fellowship 2020](https://www.nortonlifelock.com/us/en/research-labs/news/2020-fellowship-winners/). $20,000. Top 3% of applicants (100+ applied). Given to [**CETA**](https://ceta.tech.cornell.edu).
 * Advocate of New York City Award. 2019
 * Best Paper Honorable Mention for [3] at ACM CSCW. November 2019
-* [Cornell Graduate School Fellowship 2017.](https://gradschool.cornell.edu/financial-support/fellowships/new-student-fellowships/) $62,000. 
-  - Top 20% of Cornell doctoral students.
-* Louis T. Rader Award for Outstanding Undergraduate Education at the University of Virginia. May 2017
+* [Cornell Graduate School Fellowship 2017.](https://gradschool.cornell.edu/financial-support/fellowships/new-student-fellowships/) $62,000. Top 20% of graduate researchers at Cornell.
+* [Louis T. Rader Award for Outstanding Undergraduate Education at the University of Virginia](https://uvacsnews.wordpress.com/2017/05/12/congratulations-to-our-cs-award-winners/). May 2017
 
 ## Publications
  
@@ -42,14 +38,14 @@ Partner Violence](/pubs/spyware.pdf).
 **IEEE S&P (Oakland) 2018**.
 [[Paper PDF](/pubs/spyware.pdf)]. Media coverage: [_The New York Times_](https://www.nytimes.com/2018/05/19/technology/phone-apps-stalking.html), [_MIT Technology Review_](https://www.technologyreview.com/s/613915/stalkerware-apps-are-letting-abusive-partners-spy-on-their-victims/), [_Cornell Chronicle_](https://news.cornell.edu/stories/2018/07/apps-make-it-easy-domestic-abusers-spy), [_Vox_](https://www.vox.com/the-big-idea/2018/5/21/17374434/intimate-partner-violence-spyware-domestic-abusers-apple-google), [_Freedom to Tinker (Princeton CITP)_](https://freedom-to-tinker.com/2018/02/23/how-tech-is-failing-victims-of-intimate-partner-violence-thomas-ristenpart-at-citp/).
 
+(\*) indicates co-equal contributions.
+
 ## Posters
-[PST1]. **Sam Havron**, Dave Evans. [Poster: Secure
+1. **Sam Havron**, Dave Evans. [Poster: Secure
 Multi-Party Computation as a Tool for Privacy-Preserving Data
 Analysis](/pubs/mpcposter.pdf).
 **IEEE S&P (Oakland) 2016**.
 [[Paper PDF](/pubs/mpcposter.pdf), [Poster PDF](/pubs/mpc_poster_print.pdf)]
-
-(\*) indicates co-equal contributions.
 
 ## Acknowledgments
 * **[Horcrux: A Password Manager for Paranoids](https://arxiv.org/pdf/1706.05085.pdf).** 

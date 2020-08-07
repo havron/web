@@ -12,8 +12,8 @@ meta_img = "/images/image.jpg"
 hacker_news_id = ""
 lobsters_id = ""
 +++
-Outlets my research has been covered in include:
-**_The New York Times, MIT Technology Review, WIRED, NPR (Boston), The 
+Outlets [my research](/research) has been covered in include:
+**_The New York Times (twice), MIT Technology Review (twice), WIRED (twice), NPR (Boston), The 
 Brooklyn Daily Eagle, Vice, Malwarebytes, Vox, Slate, Smart Cities
 Dive, Technology Review (Deutschland), Cornell Tech Press Room_, and _The Cornell Chronicle_.** 
 

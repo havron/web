@@ -7,7 +7,7 @@ draft: false
 <!-- ## local attractions and environs. -->
 Here is [my reading list](#reading-list) and a selection of places I recommend [in New York](#in-new-york-city). All ordering is arbitrary.
 
-## in New York City
+## New York City
 
 ### browse
 * [McNally Jackson Independent Booksellers](https://www.mcnallyjackson.com/). In Nolita (Manhattan), closest to Bowery {{% mta j %}} {{% mta z %}}, Broadway-Lafayette St {{% mta b %}}{{% mta d %}}{{% mta f %}}{{% mta m %}}, or Spring St {{% mta 6 %}}.

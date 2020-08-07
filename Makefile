@@ -8,7 +8,7 @@ server:
 build:
 	hugo --theme=$(THEME)
 
-commit-deploy: cs.cornell.edu havron.xyz
+commit-deploy: cs.cornell.edu
 	git add .
 	git commit -m "${cm}"
 	git push origin master

@@ -1,4 +1,4 @@
-baseurl = "https://havron.xyz/"
+baseurl = "https://www.cs.cornell.edu/~havron/"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
@@ -20,7 +20,7 @@ blog = "writing/:slug/"
 
 [params]
 disablefancyfonts = true
-subtitle = " - Cornell"
+subtitle = " - Cornell Tech"
 exclude_headings = ["rrg"]
 footerFormat = "2006-Jan-02"
 titlestyle = "capitalize"
@@ -39,13 +39,12 @@ share = false
 # disable by setting share_on_<social network> = false
 # example: share_on_googleplus = false
 # latestpostcount = 0
-email = "havron@cs.cornell.edu"
+email = "havron@hey.com"
+twitter = "SamHavron"
 github = "havron"
 cv = "havron-cv.pdf"
-#linkedin = "john-example-aa80ue8è"
-twitter = "SamHavron"
-#facebook = "facebook_id"
-#instagram = "instagram_id"
+linkedin = "havron"
+medium = "SamHavron"
 #itch_io = "itch_io_id"
 #social_banner = "img/banner.png"
 usesmallsummarycard = true
