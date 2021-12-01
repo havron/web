@@ -28,6 +28,16 @@ cs.cornell.edu: clean
 	rsync $(RSYNCARGS) public/ $(RSYNCUSER).$@:$(RSYNCDEST)
 	@echo "Deployed $@"
 
+RSYNCARGS = --compress --recursive --checksum --itemize-changes \
+	--delete -e ssh
+RSYNCUSER = sgh65@cslinux
+RSYNCDEST = /people/sgh65/
+cornell-redirect:
+	curl -s -o /dev/null -w "%{http_code}" http://cuonly.cs.cornell.edu/ | grep -q 200 || sudo vpnc-connect
+	@echo "Deploying $@..."
+	rsync $(RSYNCARGS) redirect/ $(RSYNCUSER).cs.cornell.edu:$(RSYNCDEST)
+	@echo "Deployed $@"
+
 DISTRIBUTION_ID=E21GS4JRVEWGVS
 havron.xyz: clean
 	@echo "Building content for $@..."
